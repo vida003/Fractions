@@ -1,6 +1,6 @@
 # Fractions
 Converte frações <br/>
-1 - Converter fração imprópria para mista
+1 - Converter fração imprópria para mista <br/>
 2 - Converter fração mista para imprópria
 
 Compile with and use: gcc fractions.c -o fractions ; ./fractions
